@@ -13,6 +13,7 @@ class House {
 
 public class DiTest {
 
+    
     public static House h = new House();
     public static Human p = new Human();
 
